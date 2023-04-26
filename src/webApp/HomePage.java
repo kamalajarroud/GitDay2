@@ -6,4 +6,7 @@ public class HomePage {
     //hanan
 
     //menu
+
+    //more thing
+    //log
 }
